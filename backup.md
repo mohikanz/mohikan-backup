@@ -149,6 +149,10 @@ RSS:
 
 ## #cloud-aws
 
+RSS:
+- https://qiita.com/tags/aws/feed.atom
+- https://dev.classmethod.jp/category/cloud/aws/feed/
+- http://b.hatena.ne.jp/search/tag?q=aws&sort=recent&mode=rss&safe=on
 
 ## #cloud-azure
 
@@ -159,6 +163,8 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #cloud-gcp
 
+- https://qiita.com/tags/gcp/feed.atom
+- http://b.hatena.ne.jp/search/tag?q=gcp&sort=recent&mode=rss&safe=on
 
 ## #cloud-misc
 
@@ -171,6 +177,8 @@ Twitter: from:@azurestatusjp_a exclude:replys
 
 ## #connpass
 
+RSS:
+- https://connpass.com/explore/ja.atom
 
 ## #cooking
 
@@ -271,6 +279,9 @@ RSS: https://dev.classmethod.jp/feed/
 
 ## #firebase
 
+RSS:
+- http://b.hatena.ne.jp/search/tag?q=firebase&sort=recent&mode=rss&safe=on
+- https://qiita.com/tags/firebase/feed.atom
 
 ## #free-prog-books-ja
 
@@ -660,6 +671,15 @@ RSS: https://qiita.com/popular-items/feed.atom
 
 ## #security
 
+RSS:
+- http://b.hatena.ne.jp/search/tag?safe=on&q=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&mode=rss
+- http://slashdot.jp/security.rss
+- https://alas.aws.amazon.com/alas.rss
+- https://rss.itmedia.co.jp/rss/2.0/news_security.xml
+- https://www.ipa.go.jp/security/rss/alert.rdf
+- https://www.jpcert.or.jp/rss/jpcert.rdf
+- http://feeds.trendmicro.com/TM-Securityblog/
+- https://jvn.jp/rss/jvn.rdf
 
 ## #security-talk
 
