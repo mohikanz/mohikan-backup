@@ -116,6 +116,7 @@ RSS:
 - https://postd.cc/feed/
 - http://tech.connehito.com/feed
 - https://tech.studyplus.co.jp/feed
+- https://linkers.hatenablog.com/feed
 
 ## #blue0552_sandbox
 
