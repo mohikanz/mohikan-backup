@@ -105,10 +105,10 @@ RSS: http://b.hatena.ne.jp/hotentry.rss
 RSS:
 - https://tech.actindi.net/feed
 - http://www.techscore.com/blog/feed
-- https://techlife.cookpad.com/
+- https://techlife.cookpad.com/feed
 - https://japan.googleblog.com/atom.xml
-- http://labs.gree.jp/blog/
-- https://tech.mercari.com/
+- http://labs.gree.jp/blog/feed
+- https://tech.mercari.com/feed
 - https://techblog.yahoo.co.jp/atom.xml
 - https://developers-jp.googleblog.com/atom.xml
 - https://allabout-tech.hatenablog.com/feed
