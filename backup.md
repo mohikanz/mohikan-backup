@@ -222,6 +222,11 @@ RSS:
 
 ## #deep_learning
 
+- http://b.hatena.ne.jp/search/text?q=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92&mode=rss
+- http://b.hatena.ne.jp/search/text?q=%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92&mode=rss
+- http://b.hatena.ne.jp/search/text?q=deep%20learning&mode=rss
+- http://b.hatena.ne.jp/search/text?q=Convolutional%20Neural%20Net&mode=rss
+- http://b.hatena.ne.jp/search/text?q=Recurrent%20Neural%20Net&mode=rss
 
 ## #deleted_1
 
