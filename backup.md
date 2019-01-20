@@ -222,6 +222,11 @@ RSS:
 
 ## #deep_learning
 
+- http://b.hatena.ne.jp/search/text?q=%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92&mode=rss
+- http://b.hatena.ne.jp/search/text?q=%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92&mode=rss
+- http://b.hatena.ne.jp/search/text?q=deep%20learning&mode=rss
+- http://b.hatena.ne.jp/search/text?q=Convolutional%20Neural%20Net&mode=rss
+- http://b.hatena.ne.jp/search/text?q=Recurrent%20Neural%20Net&mode=rss
 
 ## #deleted_1
 
@@ -562,6 +567,17 @@ RSS: https://menthas.com/all/rss
 
 ## #news-it-ja
 
+- https://gihyo.jp/feed/rss2
+- https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf
+- https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+- http://feeds.japan.cnet.com/rss/cnet/blog.rdf
+- https://codezine.jp/rss/new/20/index.xml
+- https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml
+- https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf
+- http://feeds.japan.cnet.com/rss/cnet/all.rdf
+- http://feeds.japan.zdnet.com/rss/zdnet/all.rdf
+- https://www.gizmodo.jp/index.xml
+- https://techable.jp/feed
 
 ## #news-it-ja-hardware
 
